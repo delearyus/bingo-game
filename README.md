@@ -6,16 +6,16 @@ The bingo.zip file contains the final distribution of the current build.
 To run the game, simply extract the zip file and run bingo.sh.`
 
 ## Next steps
-*handle the job of the shell script within the C program
+* handle the job of the shell script within the C program
 
-*put actual stuff in the wordlist
+* put actual stuff in the wordlist
 
-*add a window at the bottom detailing instructions
+* add a window at the bottom detailing instructions
 
-*add colors
+* add colors
 
-*better indicators for checked off panels
+* better indicators for checked off panels
 
-*free space logic
+* free space logic
 
 
