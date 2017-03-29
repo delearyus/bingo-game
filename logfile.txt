@@ -1,0 +1,5 @@
+updating: bingo/ (stored 0%)
+updating: bingo/bingo.sh (deflated 43%)
+updating: bingo/internals/ (stored 0%)
+updating: bingo/internals/wordlist.txt (deflated 52%)
+updating: bingo/internals/bingo_game (deflated 64%)
